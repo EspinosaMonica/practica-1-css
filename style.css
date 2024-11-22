@@ -1,0 +1,21 @@
+body {
+    background: #89CFF0;
+}
+
+.product_title {
+    color: green;
+}
+
+.product_link {
+    color: purple;
+    text-decoration: underline;
+}
+
+.product_description{
+    color: red;
+}
+
+
+#product_image {
+    width: 500px;
+}
