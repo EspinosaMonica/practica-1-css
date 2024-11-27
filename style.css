@@ -1,4 +1,4 @@
-body {
+* {
     background: #B9D8EB;
 }
 
@@ -37,3 +37,30 @@ h2{
 	border: 5px solid white;
 	margin: 10px;
 }
+
+.card_product{
+    color: black;
+}
+.wrapper_card{
+    color: rgb(29, 1, 54);
+}
+
+
+#unique-description-1{
+    background: white;
+}
+
+li{
+    background: yellowgreen !important;
+    font-size: 20px !important;
+}
+
+.card_product p{
+    background: blueviolet;
+}
+
+.wrapper_card p{
+    background: rgb(167, 146, 185);
+}
+
+
